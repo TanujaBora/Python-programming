@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../100DaysofPythonProgramming/.idea/100-Days-of-Python-Angela-Yu.iml" filepath="$PROJECT_DIR$/../../100DaysofPythonProgramming/.idea/100-Days-of-Python-Angela-Yu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_Programming.iml" filepath="$PROJECT_DIR$/.idea/Python_Programming.iml" />
     </modules>
   </component>
